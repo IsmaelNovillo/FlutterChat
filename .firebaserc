@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "flutterfirebase-12e3f"
-  }
+    "default": "flutterchat-51487",
+    "chat": "flutterchat-51487"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
